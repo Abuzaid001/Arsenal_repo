@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+   <h1>Arsenal most incredible moment 24/25</h1>
+    <p>No doubt arsenal had the most incredible season 24/25,despite having no trophy to show for it.The excellence of players like <strong>David raya,Jurrien timber,declan rice</strong> was just incredibel. </p>
+<section>
+    <h2>David raya</h2>
+    <p>Currently he's one of the best goalkeepers in the world,2 times golden gloves winner</p>
+    <iframe
+        src="https://youtube.com/embed/qrPvZ5LMnWw?si=66GZeYftFU8hgopc"
+         width="560"
+         
+         
+         
+         height="315"
+         allowfullscreen
+         title="best of david raya"
+    ></iframe>
+</section>
+<section>
+    <h2>Jurrien timber</h2>
+    <p> A defender who was as solid as wall,overlapping in the right side to create chances,standing against top strickers he was just incredible.</p>
+    <iframe
+        src="https://youtube.com/embed/Gn7nwgp7Eko?si=qJtyTI--oPAQBdqb"
+         width="560"
+         height="315"
+         allowfullscreen
+         title="best of jurrien timber"
+    ></iframe>
+</section>
+<section>
+      <h2>Declane Rice</h2>
+      <p>Words can't explain how phenomenal Rice can be,defensive mildfielder with striking ability,lets mot even start with the double freekicks scored against Real madrid.He is just phenomenal!</p>
+      <iframe
+     src="https://youtube.com/embed/74b13Gzkgig?si=KlBgDzl_DnwyUd9G"
+     width="560"
+     height="315"
+     allowfullscreen
+     title="best of declan rice"
+      ></iframe>
+     </section>
+</main>
+</body>
+
+</html>
 
